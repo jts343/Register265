@@ -19,7 +19,7 @@ Return values:
 1 	Bad arguments (format/number)
 2 	Amounts don't jibe. E.g., left- and right-hand side of change aren't equal, or amount tendered is less than purchase price
 3 	Drawer has insufficient money or denominations to make proper change
-4 	Unable to read/write data file
+4 	Unable to read/write data file.
 """
 
 def error(errCode):
